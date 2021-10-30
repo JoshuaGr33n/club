@@ -1,0 +1,512 @@
+ <!-- INVENTORY BAG PREVIEW -->
+ <div class="inventory-bag-preview">
+    <!-- INVENTORY CLOSE BUTTON -->
+    <svg class="inventory-close-button cross-icon big">
+      <use xlink:href="#svg-cross-big"></use>
+    </svg>
+    <!-- /INVENTORY CLOSE BUTTON -->
+    <p class="items-in-inventory">
+      <span class="quantity">8</span> items in inventory</p>
+    <div class="line-separator"></div>
+
+    <!-- INVENTORY ITEMS PREVIEW -->
+    <div class="inventory-items-preview">
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview">
+        <!-- PRODUCT PREVIEW -->
+        <div class="product-preview small">
+          <!-- PRODUCT PREVIEW IMG WRAP -->
+          <div class="product-preview-img-wrap">
+            <!-- PRODUCT PREVIEW IMG -->
+            <a href="product-page.html">
+              <figure class="product-preview-img liquid">
+                <img src="{{ asset('public/img/products/01.jpg') }}" alt="product-01">
+              </figure>
+            </a>
+            <!-- /PRODUCT PREVIEW IMG -->
+          </div>
+          <!-- /PRODUCT PREVIEW IMG WRAP -->
+
+          <!-- REMOVE -->
+          <div class="bubble-ornament small red remove">
+            <!-- CROSS ICON -->
+            <svg class="cross-cb-icon small">
+              <use xlink:href="#svg-cross-cb-small"></use>
+            </svg>
+            <!-- /CROSS ICON -->
+          </div>
+          <!-- /REMOVE -->
+
+          <!-- TAG QUANTITY -->
+          <div class="tag-quantity">
+            <p class="tag-quantity-text">x
+              <span class="value">2</span>
+            </p>
+          </div>
+          <!-- TAG QUANTITY -->
+
+          <!-- PRODUCT PREVIEW TITLE -->
+          <a href="product-page.html" class="product-preview-title">New Funtendo 3XSD - black</a>
+          <!-- PRODUCT PREVIEW INFO -->
+          <div class="product-preview-info">
+            <!-- RATING ORNAMENT -->
+            <div class="rating-ornament small void yellow">
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+            </div>
+            <!-- /RATING ORNAMENT -->
+          </div>
+          <!-- /PRODUCT PREVIEW INFO -->
+
+          <!-- PRODUCT PRICE WRAP -->
+          <div class="product-price-wrap">
+            <p class="product-preview-price current">
+              <span class="currency">$</span>199.00</p>
+          </div>
+          <!-- /PRODUCT PRICE WRAP -->
+        </div>
+        <!-- /PRODUCT PREVIEW -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview">
+        <!-- PRODUCT PREVIEW -->
+        <div class="product-preview small">
+          <!-- PRODUCT PREVIEW IMG WRAP -->
+          <div class="product-preview-img-wrap">
+            <!-- PRODUCT PREVIEW IMG -->
+            <a href="product-page.html">
+              <figure class="product-preview-img liquid">
+                <img src="{{ asset('public/img/products/06.jpg') }}" alt="product-06">
+              </figure>
+            </a>
+            <!-- /PRODUCT PREVIEW IMG -->
+          </div>
+          <!-- /PRODUCT PREVIEW IMG WRAP -->
+
+          <!-- REMOVE -->
+          <div class="bubble-ornament small red remove">
+            <!-- CROSS ICON -->
+            <svg class="cross-cb-icon small">
+              <use xlink:href="#svg-cross-cb-small"></use>
+            </svg>
+            <!-- /CROSS ICON -->
+          </div>
+          <!-- /REMOVE -->
+
+          <!-- TAG QUANTITY -->
+          <div class="tag-quantity">
+            <p class="tag-quantity-text">x
+              <span class="value">1</span>
+            </p>
+          </div>
+          <!-- TAG QUANTITY -->
+
+          <!-- PRODUCT PREVIEW TITLE -->
+          <a href="product-page.html" class="product-preview-title">Crimson red joystick</a>
+          <!-- PRODUCT PREVIEW INFO -->
+          <div class="product-preview-info">
+            <!-- RATING ORNAMENT -->
+            <div class="rating-ornament small void yellow">
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon empty">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon empty">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+            </div>
+            <!-- /RATING ORNAMENT -->
+          </div>
+          <!-- /PRODUCT PREVIEW INFO -->
+
+          <!-- PRODUCT PRICE WRAP -->
+          <div class="product-price-wrap">
+            <p class="product-preview-price current">
+              <span class="currency">$</span>32.50</p>
+          </div>
+          <!-- /PRODUCT PRICE WRAP -->
+        </div>
+        <!-- /PRODUCT PREVIEW -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview">
+        <!-- PRODUCT PREVIEW -->
+        <div class="product-preview small">
+          <!-- PRODUCT PREVIEW IMG WRAP -->
+          <div class="product-preview-img-wrap">
+            <!-- PRODUCT PREVIEW IMG -->
+            <a href="product-page.html">
+              <figure class="product-preview-img liquid">
+                <img src="{{ asset('public/img/products/05.jpg') }}" alt="product-05">
+              </figure>
+            </a>
+            <!-- /PRODUCT PREVIEW IMG -->
+          </div>
+          <!-- /PRODUCT PREVIEW IMG WRAP -->
+
+          <!-- REMOVE -->
+          <div class="bubble-ornament small red remove">
+            <!-- CROSS ICON -->
+            <svg class="cross-cb-icon small">
+              <use xlink:href="#svg-cross-cb-small"></use>
+            </svg>
+            <!-- /CROSS ICON -->
+          </div>
+          <!-- /REMOVE -->
+
+          <!-- TAG QUANTITY -->
+          <div class="tag-quantity">
+            <p class="tag-quantity-text">x
+              <span class="value">4</span>
+            </p>
+          </div>
+          <!-- TAG QUANTITY -->
+
+          <!-- PRODUCT PREVIEW TITLE -->
+          <a href="product-page.html" class="product-preview-title">Carbon black joystick</a>
+          <!-- PRODUCT PREVIEW INFO -->
+          <div class="product-preview-info">
+            <!-- RATING ORNAMENT -->
+            <div class="rating-ornament small void yellow">
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon empty">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+            </div>
+            <!-- /RATING ORNAMENT -->
+          </div>
+          <!-- /PRODUCT PREVIEW INFO -->
+
+          <!-- PRODUCT PRICE WRAP -->
+          <div class="product-price-wrap">
+            <p class="product-preview-price current">
+              <span class="currency">$</span>55.00</p>
+          </div>
+          <!-- /PRODUCT PRICE WRAP -->
+        </div>
+        <!-- /PRODUCT PREVIEW -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview">
+        <!-- PRODUCT PREVIEW -->
+        <div class="product-preview small">
+          <!-- PRODUCT PREVIEW IMG WRAP -->
+          <div class="product-preview-img-wrap">
+            <!-- PRODUCT PREVIEW IMG -->
+            <a href="product-page.html">
+              <figure class="product-preview-img liquid">
+                <img src="{{ asset('public/img/products/14.jpg') }}" alt="product-14">
+              </figure>
+            </a>
+            <!-- /PRODUCT PREVIEW IMG -->
+          </div>
+          <!-- /PRODUCT PREVIEW IMG WRAP -->
+
+          <!-- REMOVE -->
+          <div class="bubble-ornament small red remove">
+            <!-- CROSS ICON -->
+            <svg class="cross-cb-icon small">
+              <use xlink:href="#svg-cross-cb-small"></use>
+            </svg>
+            <!-- /CROSS ICON -->
+          </div>
+          <!-- /REMOVE -->
+
+          <!-- TAG QUANTITY -->
+          <div class="tag-quantity">
+            <p class="tag-quantity-text">x
+              <span class="value">1</span>
+            </p>
+          </div>
+          <!-- TAG QUANTITY -->
+
+          <!-- PRODUCT PREVIEW TITLE -->
+          <a href="product-page.html" class="product-preview-title">Magimons black framed print</a>
+          <!-- PRODUCT PREVIEW INFO -->
+          <div class="product-preview-info">
+            <!-- RATING ORNAMENT -->
+            <div class="rating-ornament small void yellow">
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+
+              <!-- RATING ORNAMENT ITEM -->
+              <div class="rating-ornament-item">
+                <!-- RATING ORNAMENT ICON -->
+                <svg class="rating-ornament-icon">
+                  <use xlink:href="#svg-star"></use>
+                </svg>
+              </div>
+              <!-- /RATING ORNAMENT ITEM -->
+            </div>
+            <!-- /RATING ORNAMENT -->
+          </div>
+          <!-- /PRODUCT PREVIEW INFO -->
+
+          <!-- PRODUCT PRICE WRAP -->
+          <div class="product-price-wrap">
+            <p class="product-preview-price current">
+              <span class="currency">$</span>20.00</p>
+          </div>
+          <!-- /PRODUCT PRICE WRAP -->
+        </div>
+        <!-- /PRODUCT PREVIEW -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview empty">
+        <!-- INVENTORY ICON -->
+        <svg class="inventory-icon">
+          <use xlink:href="#svg-inventory-light"></use>
+        </svg>
+        <!-- /INVENTORY ICON -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview empty">
+        <!-- INVENTORY ICON -->
+        <svg class="inventory-icon">
+          <use xlink:href="#svg-inventory-light"></use>
+        </svg>
+        <!-- /INVENTORY ICON -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview empty">
+        <!-- INVENTORY ICON -->
+        <svg class="inventory-icon">
+          <use xlink:href="#svg-inventory-light"></use>
+        </svg>
+        <!-- /INVENTORY ICON -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview empty">
+        <!-- INVENTORY ICON -->
+        <svg class="inventory-icon">
+          <use xlink:href="#svg-inventory-light"></use>
+        </svg>
+        <!-- /INVENTORY ICON -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview empty">
+        <!-- INVENTORY ICON -->
+        <svg class="inventory-icon">
+          <use xlink:href="#svg-inventory-light"></use>
+        </svg>
+        <!-- /INVENTORY ICON -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview empty">
+        <!-- INVENTORY ICON -->
+        <svg class="inventory-icon">
+          <use xlink:href="#svg-inventory-light"></use>
+        </svg>
+        <!-- /INVENTORY ICON -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview empty">
+        <!-- INVENTORY ICON -->
+        <svg class="inventory-icon">
+          <use xlink:href="#svg-inventory-light"></use>
+        </svg>
+        <!-- /INVENTORY ICON -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+
+      <!-- INVENTORY ITEM PREVIEW -->
+      <div class="inventory-item-preview empty">
+        <!-- INVENTORY ICON -->
+        <svg class="inventory-icon">
+          <use xlink:href="#svg-inventory-light"></use>
+        </svg>
+        <!-- /INVENTORY ICON -->
+      </div>
+      <!-- /INVENTORY ITEM PREVIEW -->
+    </div>
+    <!-- /INVENTORY ITEMS PREVIEW -->
+
+    <div class="line-separator"></div>
+    <p class="inventory-subtotal">
+      <span class="subtotal-text">Inventory subtotal:</span>
+      <span class="subtotal-value">
+        <span class="currency">$</span>
+        <span class="value">670.50</span>
+      </span>
+    </p>
+    <div class="line-separator"></div>
+    <!-- INVENTORY ACTIONS -->
+    <div class="inventory-actions">
+      <a href="inventory-bag.html" class="button full blue">Go to the inventory bag</a>
+      <a href="checkout.html" class="button full violet">Proceed to checkout</a>
+    </div>
+    <!-- /INVENTORY ACTIONS -->
+  </div>
+  <!-- /INVENTORY BAG PREVIEW -->
